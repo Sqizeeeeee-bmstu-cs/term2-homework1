@@ -1,0 +1,12 @@
+{
+    "channel_names": {
+        "0": "gray"
+    },
+    "labels": {
+        "background": 0,
+        "line": 1,
+        "text": 2
+    },
+    "numTraining": 100,
+    "file_ending": ".png"
+}

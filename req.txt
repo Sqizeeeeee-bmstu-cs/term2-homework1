@@ -1,0 +1,8 @@
+
+
+numpy
+opencv-python
+nnunetv2
+acvl-utils
+batchgenerators
+dynamic-network-architectures
